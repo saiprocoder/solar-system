@@ -1,0 +1,65 @@
+h1 {
+	font-size: 30px;
+	color: red;
+}
+
+p {
+	font-size: 25px;
+	color: darkgreen;
+}
+
+h2 {
+	font-size: 30px;
+	color: red;
+}
+
+h3 {
+	font-size: 30px;
+	color: red;
+}
+
+h4 {
+	font-size: 30px;
+	color: red;
+}
+
+h5{
+	font-size: 30px;
+	color: red;
+}
+
+h6{
+	font-size: 30px;
+	color: red;
+}
+
+ul{
+
+	float: left;
+	list-style-type: none;
+}
+
+ul li{
+	display: inline-block;
+}
+
+ul li a{
+	text-decoration: none;
+	color: #000;
+	padding: 5px 20px;
+	border: 1px solid #fff;
+	transition: 0.6s ease;
+}
+
+ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+ul li {
+		position: top-right;
+}
+
+ul li {
+		font-size: 20px;
+}
